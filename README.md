@@ -126,4 +126,4 @@ Depois de cada etapa, rode o bloco correspondente do `00-conferencia.sql` (ident
 
 ## 🎥 8. Vídeo de Demonstração
 
-[Link do vídeo gravado para o AVA]
+[Link do vídeo gravado para Apresentação: [drive.google.com/file/d/1qNxGXYVrB_F6U9Sx6_SZbAbNqz3L1j8Y/view?usp=sharing](https://drive.google.com/file/d/1qNxGXYVrB_F6U9Sx6_SZbAbNqz3L1j8Y/view?usp=sharing)]
